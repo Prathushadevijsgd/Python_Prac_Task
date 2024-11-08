@@ -1,0 +1,32 @@
+{
+  "Survey_Name": "Customer Feedback Survey",
+  "General Questions": {
+    "Question1": {
+      "Description": "How satisfied are you with our service?",
+      "Answers": [
+        {"text": "Very Satisfied"},
+        {"text": "Satisfied"},
+        {"text": "Neutral"},
+        {"text": "Dissatisfied"},
+        {"text": "Very Dissatisfied"}
+]
+    },
+    "Question2": {
+      "Description": "Would you recommend us to others?",
+      "Answers": [
+   {"text" :   "Yes"},
+   {"text" :   "No"}
+]
+    },
+    "Question3": {
+      "Description": "How easy was it to use or access our service/product?",
+      "Answers": [
+        {"text": "Very Easy"},
+        {"text": "Easy"},
+        {"text": "Neutral"},
+        {"text": "Difficult"},
+        {"text": "Very Difficult"}
+]
+    }
+  }
+}
