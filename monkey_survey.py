@@ -70,7 +70,7 @@ def create_survey(survey_data):
 
 
 def main():
-    # Set up argument parser
+    
     parser = argparse.ArgumentParser(description="Create a survey.")
     
     parser.add_argument("-q", "--questions", required=True, help="Path to JSON file containing survey questions")
